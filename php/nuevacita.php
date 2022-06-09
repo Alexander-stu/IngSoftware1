@@ -48,11 +48,11 @@
         <nav class="nav-menu" id="mySidenav">
                 <a class="is-hidden-mobile brand is-uppercase has-text-weight-bold has-text-dark" href="../servicios.php">SERVICIOS</a>
                 <ul class="nav-menu-ul">
-                    <li class="nav-menu-item"><a href="contacto.php" class="nav-menu-link">CONTACTANOS</a></li>
+                    <li class="nav-menu-item"><a href="contacto.php" class="nav-menu-link">CONTÁCTANOS</a></li>
                     <li class="nav-menu-item"><a href="nuevacita.php" class="nav-menu-link">NUEVA CITA</a></li>
                     <li class="nav-menu-item"><a href="historialcitas.php" class="nav-menu-link">HISTORIAL DE CITAS</a></li>
                     <li class="nav-menu-item"><a href="../dentistas.php"  class="nav-menu-link">DENTISTAS</a></li>
-                    <li class="nav-menu-item"><a href="cerrar_sesion.php" class="nav-menu-link">CERRAR SESION</a></li>
+                    <li class="nav-menu-item"><a href="cerrar_sesion.php" class="nav-menu-link">CERRAR SESIÓN</a></li>
                     
                 </ul>
             </nav>
