@@ -45,11 +45,11 @@
         <nav class="nav-menu" id="mySidenav">
                 <a class="is-hidden-mobile brand is-uppercase has-text-weight-bold has-text-dark" href="servicios.php">SERVICIOS</a>
                 <ul class="nav-menu-ul">
-                <li class="nav-menu-item"><a href="php/contacto.php" class="nav-menu-link">CONTACTANOS</a></li>
+                <li class="nav-menu-item"><a href="php/contacto.php" class="nav-menu-link">CONTÁCTANOS</a></li>
                     <li class="nav-menu-item"><a href="php/nuevacita.php" class="nav-menu-link">NUEVA CITA</a></li>
                     <li class="nav-menu-item"><a href="php/historialcitas.php" class="nav-menu-link">HISTORIAL DE CITAS</a></li>
                     <li class="nav-menu-item"><a href="dentistas.php"  class="nav-menu-link">DENTISTAS</a></li>
-                    <li class="nav-menu-item"><a href="php/cerrar_sesion.php" class="nav-menu-link">CERRAR SESION</a></li>
+                    <li class="nav-menu-item"><a href="php/cerrar_sesion.php" class="nav-menu-link">CERRAR SESIÓN</a></li>
                 </ul>
             </nav>
         </nav>
@@ -78,7 +78,7 @@
                             <img src="assets/images/dentista1.jpeg" alt="">
                             <div class="card-info">
                                 <h4 class="has-text-black has-text-centered has-text-weight-bold"> Erick Alexander Vazquez Barrios</h4>
-                                <p class="has-text-centered">Odontologo con 7 años de experiencia, egresado de la UNAM</p>
+                                <p class="has-text-centered">Odontologo con 7 años de experiencia, egresado de la UNAM.</p>
                             </div>
                         </div>
                     </div>
@@ -87,8 +87,8 @@
                             <span class="price"></span>
                             <img src="assets/images/dentista2.jpeg" alt="">
                             <div class="card-info">
-                                <h4 class="has-text-black has-text-centered has-text-weight-bold"> Eduardo Garcia Cisneros</h4>
-                                <p class="has-text-centered">Ortodoncista con 5 años de esperiencia, egresado de la UG</p>
+                                <h4 class="has-text-black has-text-centered has-text-weight-bold"> Eduardo García Cisneros</h4>
+                                <p class="has-text-centered">Ortodoncista con 5 años de esperiencia, egresado de la UG.</p>
                             </div>
                         </div>
                     </div>
@@ -99,8 +99,8 @@
                             
                                 <img src="assets/images/dentista3.jpg" alt="">
                             <div class="card-info">
-                                <h4 class="has-text-black has-text-centered has-text-weight-bold"> Andrea Martinez</h4>
-                                <p class="has-text-centered">Odontologa especialista en extracción con 4 años de experiencia, egresada de la UG</p>
+                                <h4 class="has-text-black has-text-centered has-text-weight-bold"> Andrea Martínez</h4>
+                                <p class="has-text-centered">Odontologa especialista en extracción con 4 años de experiencia, egresada de la UG.</p>
                             </div>
                         </div>
                     </div>
