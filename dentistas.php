@@ -78,7 +78,7 @@
                             <img src="assets/images/dentista1.jpeg" alt="">
                             <div class="card-info">
                                 <h4 class="has-text-black has-text-centered has-text-weight-bold"> Erick Alexander Vazquez Barrios</h4>
-                                <p class="has-text-centered">Odontologo con 7 años de experiencia, egresado de la UNAM</p>
+                                <p class="has-text-centered">Odontólogo con 7 años de experiencia, egresado de la UNAM.</p>
                             </div>
                         </div>
                     </div>
@@ -87,8 +87,8 @@
                             <span class="price"></span>
                             <img src="assets/images/dentista2.jpeg" alt="">
                             <div class="card-info">
-                                <h4 class="has-text-black has-text-centered has-text-weight-bold"> Eduardo Garcia Cisneros</h4>
-                                <p class="has-text-centered">Ortodoncista con 5 años de esperiencia, egresado de la UG</p>
+                                <h4 class="has-text-black has-text-centered has-text-weight-bold"> Eduardo García Cisneros</h4>
+                                <p class="has-text-centered">Ortodoncista con 5 años de esperiencia, egresado de la UG.</p>
                             </div>
                         </div>
                     </div>
@@ -99,8 +99,8 @@
                             
                                 <img src="assets/images/dentista3.jpg" alt="">
                             <div class="card-info">
-                                <h4 class="has-text-black has-text-centered has-text-weight-bold"> Andrea Martinez</h4>
-                                <p class="has-text-centered">Odontologa especialista en extracción con 4 años de experiencia, egresada de la UG</p>
+                                <h4 class="has-text-black has-text-centered has-text-weight-bold"> Andrea Martínez</h4>
+                                <p class="has-text-centered">Odontóloga especialista en extracción con 4 años de experiencia, egresada de la UG.</p>
                             </div>
                         </div>
                     </div>
